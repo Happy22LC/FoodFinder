@@ -1,0 +1,10 @@
+Flask
+flask-cors
+Pillow
+torch
+torchvision
+numpy
+requests
+transformers
+tqdm
+# Add your ML framework, e.g. torch or tensorflow 

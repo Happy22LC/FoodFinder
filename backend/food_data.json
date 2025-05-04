@@ -1,0 +1,507 @@
+{
+    "apple_pie": {
+        "description": "A popular dish known as apple pie. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "American",
+        "cuisine_description": "American cuisine is diverse and multicultural, often featuring comfort foods and fusion dishes."
+    },
+    "baby_back_ribs": {
+        "description": "A popular dish known as baby back ribs. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "baklava": {
+        "description": "A popular dish known as baklava. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "beef_carpaccio": {
+        "description": "A popular dish known as beef carpaccio. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "beef_tartare": {
+        "description": "A popular dish known as beef tartare. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "beet_salad": {
+        "description": "A popular dish known as beet salad. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "beignets": {
+        "description": "A popular dish known as beignets. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "bibimbap": {
+        "description": "A popular dish known as bibimbap. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "bread_pudding": {
+        "description": "A popular dish known as bread pudding. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "breakfast_burrito": {
+        "description": "A popular dish known as breakfast burrito. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "bruschetta": {
+        "description": "A popular dish known as bruschetta. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "caesar_salad": {
+        "description": "A popular dish known as caesar salad. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "cannoli": {
+        "description": "A popular dish known as cannoli. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "caprese_salad": {
+        "description": "A popular dish known as caprese salad. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "carrot_cake": {
+        "description": "A popular dish known as carrot cake. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "ceviche": {
+        "description": "A popular dish known as ceviche. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "cheese_plate": {
+        "description": "A popular dish known as cheese plate. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "cheesecake": {
+        "description": "A popular dish known as cheesecake. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "chicken_curry": {
+        "description": "A popular dish known as chicken curry. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "chicken_quesadilla": {
+        "description": "A popular dish known as chicken quesadilla. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "chicken_wings": {
+        "description": "A popular dish known as chicken wings. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "chocolate_cake": {
+        "description": "A popular dish known as chocolate cake. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "chocolate_mousse": {
+        "description": "A popular dish known as chocolate mousse. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "churros": {
+        "description": "A popular dish known as churros. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "clam_chowder": {
+        "description": "A popular dish known as clam chowder. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "club_sandwich": {
+        "description": "A popular dish known as club sandwich. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "crab_cakes": {
+        "description": "A popular dish known as crab cakes. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "creme_brulee": {
+        "description": "A popular dish known as creme brulee. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "croque_madame": {
+        "description": "A popular dish known as croque madame. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "French",
+        "cuisine_description": "French cuisine is known for its refined techniques and rich flavors."
+    },
+    "cup_cakes": {
+        "description": "A popular dish known as cup cakes. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "deviled_eggs": {
+        "description": "A popular dish known as deviled eggs. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "donuts": {
+        "description": "A popular dish known as donuts. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "dumplings": {
+        "description": "A popular dish known as dumplings. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "edamame": {
+        "description": "A popular dish known as edamame. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "eggs_benedict": {
+        "description": "A popular dish known as eggs benedict. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "escargots": {
+        "description": "A popular dish known as escargots. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "falafel": {
+        "description": "A popular dish known as falafel. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "Mediterranean",
+        "cuisine_description": "Mediterranean cuisine emphasizes fresh vegetables, olive oil, and seafood."
+    },
+    "filet_mignon": {
+        "description": "A popular dish known as filet mignon. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "fish_and_chips": {
+        "description": "A popular dish known as fish and chips. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "foie_gras": {
+        "description": "A popular dish known as foie gras. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "french_fries": {
+        "description": "A popular dish known as french fries. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "french_onion_soup": {
+        "description": "A popular dish known as french onion soup. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "French",
+        "cuisine_description": "French cuisine is known for its refined techniques and rich flavors."
+    },
+    "french_toast": {
+        "description": "A popular dish known as french toast. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "fried_calamari": {
+        "description": "A popular dish known as fried calamari. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "fried_rice": {
+        "description": "A popular dish known as fried rice. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "frozen_yogurt": {
+        "description": "A popular dish known as frozen yogurt. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "garlic_bread": {
+        "description": "A popular dish known as garlic bread. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "gnocchi": {
+        "description": "A popular dish known as gnocchi. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "greek_salad": {
+        "description": "A popular dish known as greek salad. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "Mediterranean",
+        "cuisine_description": "Mediterranean cuisine emphasizes fresh vegetables, olive oil, and seafood."
+    },
+    "grilled_cheese_sandwich": {
+        "description": "A popular dish known as grilled cheese sandwich. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "grilled_salmon": {
+        "description": "A popular dish known as grilled salmon. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "guacamole": {
+        "description": "A popular dish known as guacamole. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "gyoza": {
+        "description": "A popular dish known as gyoza. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "hamburger": {
+        "description": "A popular dish known as hamburger. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "American",
+        "cuisine_description": "American cuisine is diverse and multicultural, often featuring comfort foods and fusion dishes."
+    },
+    "hot_and_sour_soup": {
+        "description": "A popular dish known as hot and sour soup. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "hot_dog": {
+        "description": "A popular dish known as hot dog. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "American",
+        "cuisine_description": "American cuisine is diverse and multicultural, often featuring comfort foods and fusion dishes."
+    },
+    "huevos_rancheros": {
+        "description": "A popular dish known as huevos rancheros. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "hummus": {
+        "description": "A popular dish known as hummus. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "Mediterranean",
+        "cuisine_description": "Mediterranean cuisine emphasizes fresh vegetables, olive oil, and seafood."
+    },
+    "ice_cream": {
+        "description": "A popular dish known as ice cream. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "lasagna": {
+        "description": "A popular dish known as lasagna. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "Italian",
+        "cuisine_description": "Italian cuisine emphasizes fresh, simple ingredients and traditional cooking methods."
+    },
+    "lobster_bisque": {
+        "description": "A popular dish known as lobster bisque. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "lobster_roll_sandwich": {
+        "description": "A popular dish known as lobster roll sandwich. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "macaroni_and_cheese": {
+        "description": "A popular dish known as macaroni and cheese. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "macarons": {
+        "description": "A popular dish known as macarons. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "French",
+        "cuisine_description": "French cuisine is known for its refined techniques and rich flavors."
+    },
+    "miso_soup": {
+        "description": "A popular dish known as miso soup. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "mussels": {
+        "description": "A popular dish known as mussels. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "nachos": {
+        "description": "A popular dish known as nachos. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "omelette": {
+        "description": "A popular dish known as omelette. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "onion_rings": {
+        "description": "A popular dish known as onion rings. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "oysters": {
+        "description": "A popular dish known as oysters. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "pad_thai": {
+        "description": "A popular dish known as pad thai. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "Asian",
+        "cuisine_description": "Asian cuisines are diverse, featuring rice, noodles, and various cooking techniques."
+    },
+    "paella": {
+        "description": "A popular dish known as paella. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "pancakes": {
+        "description": "A popular dish known as pancakes. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "panna_cotta": {
+        "description": "A popular dish known as panna cotta. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "peking_duck": {
+        "description": "A popular dish known as peking duck. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "pho": {
+        "description": "A popular dish known as pho. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "pizza": {
+        "description": "A popular dish known as pizza. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "Italian",
+        "cuisine_description": "Italian cuisine emphasizes fresh, simple ingredients and traditional cooking methods."
+    },
+    "pork_chop": {
+        "description": "A popular dish known as pork chop. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "poutine": {
+        "description": "A popular dish known as poutine. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "prime_rib": {
+        "description": "A popular dish known as prime rib. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "pulled_pork_sandwich": {
+        "description": "A popular dish known as pulled pork sandwich. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "ramen": {
+        "description": "A popular dish known as ramen. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "Asian",
+        "cuisine_description": "Asian cuisines are diverse, featuring rice, noodles, and various cooking techniques."
+    },
+    "ravioli": {
+        "description": "A popular dish known as ravioli. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "red_velvet_cake": {
+        "description": "A popular dish known as red velvet cake. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "risotto": {
+        "description": "A popular dish known as risotto. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "Italian",
+        "cuisine_description": "Italian cuisine emphasizes fresh, simple ingredients and traditional cooking methods."
+    },
+    "samosa": {
+        "description": "A popular dish known as samosa. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "sashimi": {
+        "description": "A popular dish known as sashimi. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "scallops": {
+        "description": "A popular dish known as scallops. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "seaweed_salad": {
+        "description": "A popular dish known as seaweed salad. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "shrimp_and_grits": {
+        "description": "A popular dish known as shrimp and grits. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "spaghetti_bolognese": {
+        "description": "A popular dish known as spaghetti bolognese. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "spaghetti_carbonara": {
+        "description": "A popular dish known as spaghetti carbonara. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "Italian",
+        "cuisine_description": "Italian cuisine emphasizes fresh, simple ingredients and traditional cooking methods."
+    },
+    "spring_rolls": {
+        "description": "A popular dish known as spring rolls. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "steak": {
+        "description": "A popular dish known as steak. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "strawberry_shortcake": {
+        "description": "A popular dish known as strawberry shortcake. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "sushi": {
+        "description": "A popular dish known as sushi. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "Asian",
+        "cuisine_description": "Asian cuisines are diverse, featuring rice, noodles, and various cooking techniques."
+    },
+    "tacos": {
+        "description": "A popular dish known as tacos. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "takoyaki": {
+        "description": "A popular dish known as takoyaki. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "tiramisu": {
+        "description": "A popular dish known as tiramisu. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "tuna_tartare": {
+        "description": "A popular dish known as tuna tartare. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    },
+    "waffles": {
+        "description": "A popular dish known as waffles. This dish is prepared with traditional ingredients and methods.",
+        "cuisine": "International",
+        "cuisine_description": "A delicious dish from international cuisine."
+    }
+}
